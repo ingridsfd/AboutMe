@@ -2,6 +2,8 @@
 
 👩‍💻On my way to become a Full-Stack Developer.
 
+Contact: [My LinkedIn](https://www.linkedin.com/in/ingridsfd/) | Email 
+
 NOW:
 
 ✨ Coursing the program of Software Development Fundamentals at CoreCode.io
@@ -17,6 +19,4 @@ BIO:
 
 😌 Feel free to take a look to where I'm most active: [IngridsCoreCodeFromScratch](https://github.com/ingridsfd/IngridsCoreCodefromScratch)
 
-📫 Reach me: ingridsfonoyd@gmail.com
-
-⚡️ My fav song today is: Beat It - Michael Jackson
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
