@@ -17,4 +17,4 @@ BIO:
 
 📫 Reach me: ingridsfonoyd@gmail.com
 
-⚡️ Random fact: My fav song today is Beat It - Michael Jackson
+⚡️ My fav song today is: Beat It - Michael Jackson
