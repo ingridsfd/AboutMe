@@ -13,7 +13,9 @@ BIO:
 
 🌍 I'm mostly active within the CoreCode community.
 
-🌱 Learning all about JavaScript, TypeScript and Node.js
+🌱 Learning all about JavaScript, TypeScript and Node.js. 
+
+😌 Feel free to take a look to where I'm most active: [IngridsCoreCodeFromScratch](https://github.com/ingridsfd/IngridsCoreCodefromScratch)
 
 📫 Reach me: ingridsfonoyd@gmail.com
 
