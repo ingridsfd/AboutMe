@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🌍 I'm mostly active within the CoreCode community.
+🌍 I'm mostly working within the CoreCode community.
 
 😌 Feel free to take a look to where I'm most active: [IngridsCoreCodeFromScratch](https://github.com/ingridsfd/IngridsCoreCodefromScratch)
 
