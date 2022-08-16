@@ -35,4 +35,4 @@
 
 # Contact:
 
-[LinkedIn](https://www.linkedin.com/in/ingridsfd/) | ingridsfonoyd@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ingridsfd/) | ingridsfonoyd@gmail.com | [Instagram](https://www.instagram.com/ingridsfonoy/)
