@@ -9,7 +9,7 @@ NOW:
 
 BIO:
 
-⚙️ I use daily: ```.js```, ```.html```, ```.css```
+⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```
 
 🌍 I'm mostly active within the CoreCode community.
 
