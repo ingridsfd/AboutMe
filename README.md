@@ -16,7 +16,7 @@
 
 🌍 I'm mostly working within the CoreCode community.
 
-😌 Feel free to take at my most active repository: [IngridsCoreCodeFromScratch](https://github.com/ingridsfd/IngridsCoreCodefromScratch)
+😌 Feel free to take a look at my most active repository: [IngridsCoreCodeFromScratch](https://github.com/ingridsfd/IngridsCoreCodefromScratch)
 
 # My Tech Stack:
 
