@@ -29,7 +29,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-# ⚡ Fun fact about me: 
+## ⚡ Fun fact about me: 
 
 Music is everything! I love listening to it whenever I can! 
 
