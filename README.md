@@ -29,7 +29,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-⚡ Fun fact about me: Music is everything! I love listening to it whenever I can! 
+# ⚡ Fun fact about me: 
+
+Music is everything! I love listening to it whenever I can! 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ttkjhecf3die5d2cp4t563i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
