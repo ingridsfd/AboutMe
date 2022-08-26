@@ -5,6 +5,7 @@
 # Now:
 
 ✨ Coursing the program of Software Development Fundamentals at CoreCode.io
+[ ] Next: Introduction to JAVA ✨
 
 # BIO: 
 
