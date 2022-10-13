@@ -1,12 +1,12 @@
-# Hi👋 Ingrid here!
+# Hi👩‍🚀 Ingrid here!
 
 👩‍💻On my way to become a Full-Stack Developer.
 
 # Now:
 
-✨ Coursing the program of Software Development Fundamentals at CoreCode.io
+✨ Finishing the program of Software Development Fundamentals at CoreCode.io
 
-1. [ ] Next: Introduction to JAVA ✨
+Up next: Full Stack course program at CoreCode.io & Introduction to JAVA ✨
 
 # BIO: 
 
