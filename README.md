@@ -10,7 +10,7 @@ Java II: Concepts practice from Fundaula Accenture ✨
 
 # BIO: 
 
-🌱 Learning all about Jav
+🌱 Learning all about Java, Intermediate React & Node.js
 
 ⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```, ```Java```
 
