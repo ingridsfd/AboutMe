@@ -4,15 +4,15 @@
 
 # Now:
 
-✨ Finishing the program of Software Development Fundamentals at CoreCode.io
+✨ Full Stack bootcamp: React & Node.js at CoreCode.io
 
-Up next: Full Stack course program at CoreCode.io & Introduction to JAVA ✨
+Java II: Concepts practice from Fundaula Accenture ✨
 
 # BIO: 
 
-🌱 Learning all about JavaScript, TypeScript and Node.js. 
+🌱 Learning all about Jav
 
-⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```
+⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```, ```Java```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
