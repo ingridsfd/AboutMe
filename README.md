@@ -18,8 +18,6 @@ Java II: Concepts practice from Fundaula Accenture ✨
 
 🌍 I'm mostly working within the CoreCode community.
 
-😌 Feel free to take a look at my most active repository: [IngridsCoreCodeFromScratch](https://github.com/ingridsfd/IngridsCoreCodefromScratch)
-
 # My Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
