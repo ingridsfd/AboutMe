@@ -12,7 +12,7 @@ Java II: Concepts practice from Fundaula Accenture ✨
 
 🌱 Learning all about Java, Intermediate React & Node.js
 
-⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```, ```Java```
+⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
