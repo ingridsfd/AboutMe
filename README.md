@@ -2,6 +2,8 @@
 
 👩‍💻On my way to become a Full-Stack Developer.
 
+Take a look at my first Web App ever created: [here](https://github.com/ingridsfd/ToDoAppBackendFinalProjectCoreCode)
+
 # Now:
 
 ✨ Full Stack bootcamp: React & Node.js at CoreCode.io
