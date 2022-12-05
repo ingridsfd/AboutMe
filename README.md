@@ -20,7 +20,7 @@ Java II: Concepts practice from Fundaula Accenture ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🌍 I'm mostly working within the CoreCode community.
+🌍 I'm mostly studying/working within the CoreCode community.
 
 # My Tech Stack:
 
