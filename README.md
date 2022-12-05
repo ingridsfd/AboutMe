@@ -10,6 +10,8 @@ Take a look at my first Web App ever created: [here](https://github.com/ingridsf
 
 Java II: Concepts practice from Fundaula Accenture ✨
 
+I'm interested in OOP.
+
 # BIO: 
 
 🌱 Learning all about Java, Intermediate React & Node.js
