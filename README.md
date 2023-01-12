@@ -20,7 +20,7 @@ JAVA Full-Stack: Springboot at Generation Mexico✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🌍 I'm mostly studying/working within the CoreCode and Generation Mexico community .
+🌍 I'm mostly studying/working within the CoreCode and Generation Mexico communities.
 
 # My Tech Stack:
 
