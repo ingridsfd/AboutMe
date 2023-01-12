@@ -8,7 +8,7 @@ Take a look at my first Web App ever created: [here](https://github.com/ingridsf
 
 ✨ Full Stack bootcamp: React & Node.js at CoreCode.io
 
-Java II: Concepts practice from Fundaula Accenture ✨
+JAVA Full-Stack: Springboot at Generation Mexico✨
 
 🖱 I'm interested in OOP
 
@@ -20,7 +20,7 @@ Java II: Concepts practice from Fundaula Accenture ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🌍 I'm mostly studying/working within the CoreCode community.
+🌍 I'm mostly studying/working within the CoreCode and Generation Mexico community .
 
 # My Tech Stack:
 
