@@ -6,7 +6,7 @@ Take a look at my first Web App ever created: [here](https://github.com/ingridsf
 
 # Now:
 
-✨ Full Stack bootcamp: React & Node.js at CoreCode.io
+✨ Full Stack bootcamp: React & Node.js at Udemy
 
 JAVA Full-Stack: Springboot at Generation Mexico✨
 
