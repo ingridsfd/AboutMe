@@ -6,9 +6,9 @@ Take a look at my first Web App ever created: [here](https://github.com/ingridsf
 
 # Now:
 
-✨ Full Stack bootcamp: React & Node.js at Udemy
+✨ Full Stack course: React & Node.js at Udemy
 
-JAVA Full-Stack: Springboot at Generation Mexico✨
+JAVA Full-Stack bootcamp: Springboot at Generation Mexico✨
 
 🖱 I'm interested in OOP
 
