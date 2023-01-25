@@ -1,37 +1,56 @@
 # Hi👩‍🚀 Ingrid here!
 
-👩‍💻On my way to become a Full-Stack Developer.
+👩‍💻Full-Stack Java Developer Junior.
 
-Take a look at my first Web App ever created: [here](https://github.com/ingridsfd/ToDoAppBackendFinalProjectCoreCode)
+Take a look at my first Web App ever created from scratch: [here](https://github.com/ingridsfd/ToDoAppBackendFinalProjectCoreCode).
 
-# Now:
+## Now learning:
 
-✨ Full Stack course: React & Node.js at Udemy
+![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
+![161013828316877891_4_33idk](https://user-images.githubusercontent.com/98929413/214456632-dab49255-b096-4c23-90a2-181a5a163889.jpeg)
 
-JAVA Full-Stack bootcamp: Springboot at Generation Mexico✨
+🌱 JAVA Full-Stack bootcamp: Springboot at Generation Mexico.
 
-🖱 I'm interested in OOP
+✨ React Js Full-Stack course: React & Node.js at Udemy.
+  
+🖱 I'm interested in OOP.
 
-# BIO: 
+## My Tech Stack:
 
-🌱 Learning all about Java, Intermediate React & Node.js
+## MERN:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 
-⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## JAVA Springboot:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🌍 I'm mostly studying/working within the CoreCode and Generation Mexico communities.
+## Workspace:
+![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-# My Tech Stack:
+### Contact:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+[LinkedIn](https://www.linkedin.com/in/ingridsfd/) |  ingridsfonoyd@gmail.com | [Instagram](https://www.instagram.com/ingridsfonoy/)
+
+## Stats: 
+
+⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```, ```java```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ingridsfd)
 
 ## ⚡ Fun fact about me: 
 
@@ -39,6 +58,4 @@ Music is everything! I love listening to it whenever I can!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ttkjhecf3die5d2cp4t563i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-# Contact:
 
-[LinkedIn](https://www.linkedin.com/in/ingridsfd/) | ingridsfonoyd@gmail.com | [Instagram](https://www.instagram.com/ingridsfonoy/)
