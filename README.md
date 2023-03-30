@@ -4,7 +4,7 @@
 
 Take a look at my first Web App ever created from scratch: [here](https://github.com/ingridsfd/ToDoAppBackendFinalProjectCoreCode).
 
-Second Web App (final project for Generation Mexico): [repo](https://github.com/codersx-genmex/proyecto-blumen).
+Second Web App E-Commerce Flower Shop (final project for Generation Mexico): [repo](https://github.com/codersx-genmex/proyecto-blumen).
 
 ## Now learning:
 
