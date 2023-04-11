@@ -9,9 +9,6 @@
 ## Now learning:
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
-![161013828316877891_4_33idk](https://user-images.githubusercontent.com/98929413/214456632-dab49255-b096-4c23-90a2-181a5a163889.jpeg)
-
-🌱 JAVA Full-Stack bootcamp: Springboot at Generation Mexico.
 
 ✨ React Js Full-Stack course: React & Node.js at Udemy.
   
