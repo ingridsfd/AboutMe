@@ -2,9 +2,13 @@
 
 👩‍💻Full-Stack Java Developer Junior.
 
-📲Take a look at my first Web App ever created from scratch: [here](https://github.com/ingridsfd/ToDoAppBackendFinalProjectCoreCode).
+##  📐 Projects: 
 
-🌸Second Web App E-Commerce Flower Shop (final project for Generation Mexico): [repo](https://github.com/codersx-genmex/proyecto-blumen).
+📲To-Do List Web App: [Repo Frontend](https://github.com/ingridsfd/To-do-App-Frontend) | [Repo Backend](https://github.com/ingridsfd/To-do-App-Backend)
+
+🌸Website E-Commerce Flower Shop (final project for Generation Mexico): [Repo](https://github.com/codersx-genmex/proyecto-blumen) | [Demo](https://codersx-genmex.github.io/proyecto-blumen/)
+
+📏Gif Web App Search [Repo](https://github.com/ingridsfd/GifExpertApp) | Demo
 
 ## Now learning:
 
