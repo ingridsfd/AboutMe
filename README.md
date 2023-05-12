@@ -8,7 +8,7 @@
 
 🌸Website E-Commerce Flower Shop (final project for Generation Mexico): [Repo](https://github.com/codersx-genmex/proyecto-blumen) | [Demo](https://codersx-genmex.github.io/proyecto-blumen/)
 
-📏Gif Web App Search [Repo](https://github.com/ingridsfd/GifExpertApp) | Demo
+📏Gif Web App Search: [Repo](https://github.com/ingridsfd/GifExpertApp) | Demo
 
 ## Now learning:
 
