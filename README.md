@@ -1,52 +1,23 @@
 # Hi👩‍🚀 Ingrid here!
 
-👩‍💻Full-Stack Java Developer Junior.
+👩‍💻 Client Support Analyst at Q4, Inc. Currently, I focus in SaaS and Web Development. 
 
-##  📐 Projects: 
+📚🤖 I study Data Science and AI in my spare time. I enjoy tracking my training exercises and mini-projects here. Don’t forget to check them out!
 
-📲To-Do List Web App: [Repo Frontend](https://github.com/ingridsfd/To-do-App-Frontend) | [Repo Backend](https://github.com/ingridsfd/To-do-App-Backend)
-
-🌸Website E-Commerce Flower Shop (final project for Generation Mexico): [Repo](https://github.com/codersx-genmex/proyecto-blumen) | [Demo](https://codersx-genmex.github.io/proyecto-blumen/)
-
-📏Gif Search Web App: [Repo](https://github.com/ingridsfd/GifExpertApp) | [Demo](https://web-practice-isfd.netlify.app/)
-
-## Now learning:
-
-![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
-
-✨ React Js Full-Stack course: React & Node.js at Udemy.
-  
-🖱 I'm interested in OOP.
-
-## My Tech Stack:
-
-## MERN:
+## My Tech Stack at Q4, Inc.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-
-
-## JAVA Springboot:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Workspace:
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+* Mustache Js
 
-### Contact:
+## Now learning:
+🖱 Bootcamp: Ciencia de Datos e Inteligencia Artificial - Ucamp
+
+## Contact:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 [LinkedIn](https://www.linkedin.com/in/ingridsfd/) |  ingridsfonoyd@gmail.com | [Instagram](https://www.instagram.com/ingridsfonoy/)
