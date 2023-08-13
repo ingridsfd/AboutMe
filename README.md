@@ -2,7 +2,7 @@
 
 👩‍💻 Client Support Analyst at Q4, Inc. Currently, I focus in SaaS and Web Development. 
 
-📚🤖 I study Data Science and AI in my spare time. I enjoy tracking my training exercises and mini-projects here. Don’t forget to check them out!
+📚🤖 I study Data Science and AI in my spare time. I enjoy tracking my training exercises and mini-projects here. Feel free to check them out!
 
 ## My Tech Stack at Q4, Inc.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
