@@ -19,7 +19,7 @@
 
 ## Stats: 
 
-⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```, ```java```
+⚙️ I use daily: ```.js```, ```.html```, ```.css```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ingridsfd)
 
