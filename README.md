@@ -12,10 +12,13 @@
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-* Mustache Js
+![mustachejs (1)](https://github.com/ingridsfd/Ingridsfd/assets/98929413/99e3f5b0-791a-429b-aa24-37f93d9ba31f)
 
 ## Now learning:
-🖱 Bootcamp: Ciencia de Datos e Inteligencia Artificial - Ucamp
+
+🖱 **Bootcamp:** Ciencia de Datos e Inteligencia Artificial - Ucamp
+
+![ucamp-log](https://github.com/ingridsfd/Ingridsfd/assets/98929413/9f1fc21e-adc7-4d5b-9841-3dc996e0cc1b)
 
 ## Stats: 
 
