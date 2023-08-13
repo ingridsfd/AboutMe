@@ -20,6 +20,18 @@
 
 ![ucamp-log](https://github.com/ingridsfd/Ingridsfd/assets/98929413/9f1fc21e-adc7-4d5b-9841-3dc996e0cc1b)
 
+### Learning Tech Stack:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![MicrosoftTeams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
+![GoogleCollab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom-625DF5.svg?style=for-the-badge&logo=Loom&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+
 ## Stats: 
 
 ⚙️ I use daily: ```.js```, ```.html```, ```.css```
