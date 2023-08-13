@@ -17,11 +17,6 @@
 ## Now learning:
 🖱 Bootcamp: Ciencia de Datos e Inteligencia Artificial - Ucamp
 
-## Contact:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-[LinkedIn](https://www.linkedin.com/in/ingridsfd/) |  ingridsfonoyd@gmail.com | [Instagram](https://www.instagram.com/ingridsfonoy/)
-
 ## Stats: 
 
 ⚙️ I use daily: ```.js```, ```.ts```, ```.html```, ```.css```, ```java```
@@ -34,4 +29,7 @@ Music is everything! I love listening to it whenever I can!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ttkjhecf3die5d2cp4t563i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+## Contact:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+[LinkedIn](https://www.linkedin.com/in/ingridsfd/) |  ingridsfonoyd@gmail.com | [Instagram](https://www.instagram.com/ingridsfonoy/)
